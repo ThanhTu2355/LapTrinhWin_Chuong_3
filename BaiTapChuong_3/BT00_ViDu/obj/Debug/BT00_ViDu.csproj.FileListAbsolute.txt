@@ -8,3 +8,13 @@ D:\DATA\LapTrinhWin_Chuong_3\BaiTapChuong_3\BT00_ViDu\obj\Debug\BT00_ViDu.csproj
 D:\DATA\LapTrinhWin_Chuong_3\BaiTapChuong_3\BT00_ViDu\obj\Debug\BT00_ViDu.csproj.CoreCompileInputs.cache
 D:\DATA\LapTrinhWin_Chuong_3\BaiTapChuong_3\BT00_ViDu\obj\Debug\BT00_ViDu.exe
 D:\DATA\LapTrinhWin_Chuong_3\BaiTapChuong_3\BT00_ViDu\obj\Debug\BT00_ViDu.pdb
+D:\DATA\Git Clone\Git Clone\BaiTapChuong_3\BT00_ViDu\bin\Debug\BT00_ViDu.exe.config
+D:\DATA\Git Clone\Git Clone\BaiTapChuong_3\BT00_ViDu\bin\Debug\BT00_ViDu.exe
+D:\DATA\Git Clone\Git Clone\BaiTapChuong_3\BT00_ViDu\bin\Debug\BT00_ViDu.pdb
+D:\DATA\Git Clone\Git Clone\BaiTapChuong_3\BT00_ViDu\obj\Debug\BT00_ViDu.csproj.AssemblyReference.cache
+D:\DATA\Git Clone\Git Clone\BaiTapChuong_3\BT00_ViDu\obj\Debug\BT00_ViDu.Form1.resources
+D:\DATA\Git Clone\Git Clone\BaiTapChuong_3\BT00_ViDu\obj\Debug\BT00_ViDu.Properties.Resources.resources
+D:\DATA\Git Clone\Git Clone\BaiTapChuong_3\BT00_ViDu\obj\Debug\BT00_ViDu.csproj.GenerateResource.cache
+D:\DATA\Git Clone\Git Clone\BaiTapChuong_3\BT00_ViDu\obj\Debug\BT00_ViDu.csproj.CoreCompileInputs.cache
+D:\DATA\Git Clone\Git Clone\BaiTapChuong_3\BT00_ViDu\obj\Debug\BT00_ViDu.exe
+D:\DATA\Git Clone\Git Clone\BaiTapChuong_3\BT00_ViDu\obj\Debug\BT00_ViDu.pdb

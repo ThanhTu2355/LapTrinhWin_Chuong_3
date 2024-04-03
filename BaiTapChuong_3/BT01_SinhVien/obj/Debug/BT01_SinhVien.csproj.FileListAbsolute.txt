@@ -1,0 +1,10 @@
+D:\DATA\Git Clone\Git Clone\BaiTapChuong_3\BT01_SinhVien\bin\Debug\BT01_SinhVien.exe.config
+D:\DATA\Git Clone\Git Clone\BaiTapChuong_3\BT01_SinhVien\bin\Debug\BT01_SinhVien.exe
+D:\DATA\Git Clone\Git Clone\BaiTapChuong_3\BT01_SinhVien\bin\Debug\BT01_SinhVien.pdb
+D:\DATA\Git Clone\Git Clone\BaiTapChuong_3\BT01_SinhVien\obj\Debug\BT01_SinhVien.csproj.AssemblyReference.cache
+D:\DATA\Git Clone\Git Clone\BaiTapChuong_3\BT01_SinhVien\obj\Debug\BT01_SinhVien.Form1.resources
+D:\DATA\Git Clone\Git Clone\BaiTapChuong_3\BT01_SinhVien\obj\Debug\BT01_SinhVien.Properties.Resources.resources
+D:\DATA\Git Clone\Git Clone\BaiTapChuong_3\BT01_SinhVien\obj\Debug\BT01_SinhVien.csproj.GenerateResource.cache
+D:\DATA\Git Clone\Git Clone\BaiTapChuong_3\BT01_SinhVien\obj\Debug\BT01_SinhVien.csproj.CoreCompileInputs.cache
+D:\DATA\Git Clone\Git Clone\BaiTapChuong_3\BT01_SinhVien\obj\Debug\BT01_SinhVien.exe
+D:\DATA\Git Clone\Git Clone\BaiTapChuong_3\BT01_SinhVien\obj\Debug\BT01_SinhVien.pdb

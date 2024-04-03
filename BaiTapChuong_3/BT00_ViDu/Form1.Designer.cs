@@ -55,6 +55,7 @@ namespace BT00_ViDu
             this.btnDirectoryExists.TabIndex = 1;
             this.btnDirectoryExists.Text = "Directory Exists";
             this.btnDirectoryExists.UseVisualStyleBackColor = true;
+            this.btnDirectoryExists.Click += new System.EventHandler(this.btnDirectoryExists_Click);
             // 
             // btnDirectoryGetFiles
             // 
@@ -64,6 +65,7 @@ namespace BT00_ViDu
             this.btnDirectoryGetFiles.TabIndex = 1;
             this.btnDirectoryGetFiles.Text = "DirectoryGetFiles";
             this.btnDirectoryGetFiles.UseVisualStyleBackColor = true;
+            this.btnDirectoryGetFiles.Click += new System.EventHandler(this.btnDirectoryGetFiles_Click);
             // 
             // btnDirectoryInfoExists
             // 
@@ -82,6 +84,7 @@ namespace BT00_ViDu
             this.btnSplit.TabIndex = 1;
             this.btnSplit.Text = "Split";
             this.btnSplit.UseVisualStyleBackColor = true;
+            this.btnSplit.Click += new System.EventHandler(this.btnSplit_Click);
             // 
             // btnGhiFile
             // 
@@ -91,6 +94,7 @@ namespace BT00_ViDu
             this.btnGhiFile.TabIndex = 1;
             this.btnGhiFile.Text = "Ghi File";
             this.btnGhiFile.UseVisualStyleBackColor = true;
+            this.btnGhiFile.Click += new System.EventHandler(this.btnGhiFile_Click);
             // 
             // Form1
             // 
@@ -104,7 +108,7 @@ namespace BT00_ViDu
             this.Controls.Add(this.btnDirectoryExists);
             this.Controls.Add(this.lstKhoa);
             this.Font = new System.Drawing.Font("Times New Roman", 12.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "Form1";

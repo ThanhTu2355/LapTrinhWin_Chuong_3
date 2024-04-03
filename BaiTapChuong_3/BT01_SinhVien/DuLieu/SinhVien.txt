@@ -1,0 +1,6 @@
+﻿1:Nguyễn Văn Cường:120
+2:Huỳnh Văn Đạt:100
+3:Phạm Minh Thương:70
+4:Trần Kim Sang:200
+6:Dư Gia Hưng:50
+7:Phạm Văn Hùng:80

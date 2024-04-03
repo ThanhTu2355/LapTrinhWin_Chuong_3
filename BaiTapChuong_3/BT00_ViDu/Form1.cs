@@ -27,6 +27,7 @@ namespace BT00_ViDu
 
         private void KhoiTaoListBox()
         {
+            lstKhoa.DataSource = null;
             lstKhoa.DisplayMember = "TenKH";
             lstKhoa.ValueMember = "MaKH";
             lstKhoa.DataSource = Khoas;
@@ -44,6 +45,42 @@ namespace BT00_ViDu
                 kh.TenKH = mang_thanh_phan[1];
                 Khoas.Add(kh);
             }    
+        }
+
+        private void btnDirectoryExists_Click(object sender, EventArgs e)
+        {
+            string duong_dan = @"D:\DATA\LapTrinhWin_Chuong_3";
+            if (Directory.Exists(duong_dan))
+                MessageBox.Show("Đường dẫn ĐÚNG");
+            else
+                MessageBox.Show("Đường dẫn SAI");
+        }
+
+        private void btnDirectoryGetFiles_Click(object sender, EventArgs e)
+        {
+            string duong_dan = @"..\..\..\..\TestGetFiles";
+            string[] danh_sach_duong_dan = Directory.GetFiles(duong_dan, "*.jpg");
+            foreach (string duong_dan_file in danh_sach_duong_dan)
+                MessageBox.Show(duong_dan_file);
+        }
+
+        private void btnSplit_Click(object sender, EventArgs e)
+        {
+            string chuoi = "Tôi đi học lập Trình";
+            string[] chiou_thanh_phan=chuoi.Split(new char[] { ':' }, StringSplitOptions.RemoveEmptyEntries);
+        }
+
+        private void btnGhiFile_Click(object sender, EventArgs e)
+        {
+            Khoas.Add(new Khoa { MaKH = "LG", TenKH = "Chuỗi cung ứng" });
+            string duong_dan= @"..\..\DATA\Khoa.txt";
+            List<string> danh_sach_chuoi_khoa = new List<string>();
+            foreach(Khoa kh in Khoas)
+            {
+                string chuoi_khoa = kh.MaKH + ":" + kh.TenKH;
+                danh_sach_chuoi_khoa.Add(chuoi_khoa);
+            }
+            File.WriteAllLines(duong_dan, danh_sach_chuoi_khoa);
         }
     }
 }
