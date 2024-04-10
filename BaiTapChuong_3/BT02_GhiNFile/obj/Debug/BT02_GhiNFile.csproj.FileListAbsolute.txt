@@ -1,0 +1,10 @@
+D:\DATA\Git Clone\Git Clone\BaiTapChuong_3\BT02_GhiNFile\bin\Debug\BT02_GhiNFile.exe.config
+D:\DATA\Git Clone\Git Clone\BaiTapChuong_3\BT02_GhiNFile\bin\Debug\BT02_GhiNFile.exe
+D:\DATA\Git Clone\Git Clone\BaiTapChuong_3\BT02_GhiNFile\bin\Debug\BT02_GhiNFile.pdb
+D:\DATA\Git Clone\Git Clone\BaiTapChuong_3\BT02_GhiNFile\obj\Debug\BT02_GhiNFile.csproj.AssemblyReference.cache
+D:\DATA\Git Clone\Git Clone\BaiTapChuong_3\BT02_GhiNFile\obj\Debug\BT02_GhiNFile.Form1.resources
+D:\DATA\Git Clone\Git Clone\BaiTapChuong_3\BT02_GhiNFile\obj\Debug\BT02_GhiNFile.Properties.Resources.resources
+D:\DATA\Git Clone\Git Clone\BaiTapChuong_3\BT02_GhiNFile\obj\Debug\BT02_GhiNFile.csproj.GenerateResource.cache
+D:\DATA\Git Clone\Git Clone\BaiTapChuong_3\BT02_GhiNFile\obj\Debug\BT02_GhiNFile.csproj.CoreCompileInputs.cache
+D:\DATA\Git Clone\Git Clone\BaiTapChuong_3\BT02_GhiNFile\obj\Debug\BT02_GhiNFile.exe
+D:\DATA\Git Clone\Git Clone\BaiTapChuong_3\BT02_GhiNFile\obj\Debug\BT02_GhiNFile.pdb
