@@ -1,5 +1,5 @@
 ﻿
-namespace BT01_SinhVien
+namespace BT04_JsonFile
 {
     partial class Form1
     {
@@ -46,10 +46,10 @@ namespace BT01_SinhVien
             // 
             this.button1.Font = new System.Drawing.Font("Times New Roman", 12.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.Color.Blue;
-            this.button1.Location = new System.Drawing.Point(292, 140);
+            this.button1.Location = new System.Drawing.Point(292, 133);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(102, 26);
-            this.button1.TabIndex = 21;
+            this.button1.TabIndex = 43;
             this.button1.Text = "Nhập";
             this.button1.UseVisualStyleBackColor = true;
             // 
@@ -60,114 +60,110 @@ namespace BT01_SinhVien
             this.lstSinhVien.ForeColor = System.Drawing.Color.Blue;
             this.lstSinhVien.FormattingEnabled = true;
             this.lstSinhVien.ItemHeight = 20;
-            this.lstSinhVien.Location = new System.Drawing.Point(0, 181);
+            this.lstSinhVien.Location = new System.Drawing.Point(0, 167);
             this.lstSinhVien.Name = "lstSinhVien";
-            this.lstSinhVien.Size = new System.Drawing.Size(420, 224);
-            this.lstSinhVien.TabIndex = 20;
-            this.lstSinhVien.SelectedIndexChanged += new System.EventHandler(this.lstSinhVien_SelectedIndexChanged);
+            this.lstSinhVien.Size = new System.Drawing.Size(421, 264);
+            this.lstSinhVien.TabIndex = 42;
             // 
             // btnXoa
             // 
             this.btnXoa.Font = new System.Drawing.Font("Times New Roman", 12.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnXoa.ForeColor = System.Drawing.Color.Blue;
-            this.btnXoa.Location = new System.Drawing.Point(122, 140);
+            this.btnXoa.Location = new System.Drawing.Point(122, 133);
             this.btnXoa.Name = "btnXoa";
             this.btnXoa.Size = new System.Drawing.Size(75, 26);
-            this.btnXoa.TabIndex = 19;
+            this.btnXoa.TabIndex = 41;
             this.btnXoa.Text = "Xoá";
             this.btnXoa.UseVisualStyleBackColor = true;
-            this.btnXoa.Click += new System.EventHandler(this.btnXoa_Click);
             // 
             // btnTiep
             // 
             this.btnTiep.Font = new System.Drawing.Font("Times New Roman", 12.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnTiep.ForeColor = System.Drawing.Color.Blue;
-            this.btnTiep.Location = new System.Drawing.Point(207, 140);
+            this.btnTiep.Location = new System.Drawing.Point(207, 133);
             this.btnTiep.Name = "btnTiep";
             this.btnTiep.Size = new System.Drawing.Size(75, 26);
-            this.btnTiep.TabIndex = 18;
+            this.btnTiep.TabIndex = 40;
             this.btnTiep.Text = "Tiếp";
             this.btnTiep.UseVisualStyleBackColor = true;
-            this.btnTiep.Click += new System.EventHandler(this.btnTiep_Click);
             // 
             // btnLuu
             // 
             this.btnLuu.Font = new System.Drawing.Font("Times New Roman", 12.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnLuu.ForeColor = System.Drawing.Color.Blue;
-            this.btnLuu.Location = new System.Drawing.Point(37, 140);
+            this.btnLuu.Location = new System.Drawing.Point(37, 133);
             this.btnLuu.Name = "btnLuu";
             this.btnLuu.Size = new System.Drawing.Size(75, 26);
-            this.btnLuu.TabIndex = 17;
+            this.btnLuu.TabIndex = 39;
             this.btnLuu.Text = "Lưu";
             this.btnLuu.UseVisualStyleBackColor = true;
-            this.btnLuu.Click += new System.EventHandler(this.btnLuu_Click);
             // 
             // txtHocBong
             // 
             this.txtHocBong.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtHocBong.ForeColor = System.Drawing.Color.Black;
-            this.txtHocBong.Location = new System.Drawing.Point(150, 96);
+            this.txtHocBong.Location = new System.Drawing.Point(150, 89);
             this.txtHocBong.Name = "txtHocBong";
             this.txtHocBong.Size = new System.Drawing.Size(204, 26);
-            this.txtHocBong.TabIndex = 16;
+            this.txtHocBong.TabIndex = 38;
             // 
             // lblHocBong
             // 
             this.lblHocBong.AutoSize = true;
             this.lblHocBong.Font = new System.Drawing.Font("Times New Roman", 12.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblHocBong.ForeColor = System.Drawing.Color.Blue;
-            this.lblHocBong.Location = new System.Drawing.Point(26, 100);
+            this.lblHocBong.Location = new System.Drawing.Point(26, 93);
             this.lblHocBong.Name = "lblHocBong";
             this.lblHocBong.Size = new System.Drawing.Size(75, 19);
-            this.lblHocBong.TabIndex = 15;
+            this.lblHocBong.TabIndex = 37;
             this.lblHocBong.Text = "Học bổng";
             // 
             // txtHoTen
             // 
             this.txtHoTen.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtHoTen.ForeColor = System.Drawing.Color.Black;
-            this.txtHoTen.Location = new System.Drawing.Point(150, 53);
+            this.txtHoTen.Location = new System.Drawing.Point(150, 46);
             this.txtHoTen.Name = "txtHoTen";
             this.txtHoTen.Size = new System.Drawing.Size(204, 26);
-            this.txtHoTen.TabIndex = 14;
+            this.txtHoTen.TabIndex = 36;
             // 
             // lblHoTen
             // 
             this.lblHoTen.AutoSize = true;
             this.lblHoTen.Font = new System.Drawing.Font("Times New Roman", 12.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblHoTen.ForeColor = System.Drawing.Color.Blue;
-            this.lblHoTen.Location = new System.Drawing.Point(26, 57);
+            this.lblHoTen.Location = new System.Drawing.Point(26, 50);
             this.lblHoTen.Name = "lblHoTen";
             this.lblHoTen.Size = new System.Drawing.Size(119, 19);
-            this.lblHoTen.TabIndex = 13;
+            this.lblHoTen.TabIndex = 35;
             this.lblHoTen.Text = "Họ tên sinh viên";
             // 
             // txtMaSinhVien
             // 
             this.txtMaSinhVien.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtMaSinhVien.ForeColor = System.Drawing.Color.Black;
-            this.txtMaSinhVien.Location = new System.Drawing.Point(150, 9);
+            this.txtMaSinhVien.Location = new System.Drawing.Point(150, 2);
             this.txtMaSinhVien.Name = "txtMaSinhVien";
             this.txtMaSinhVien.ReadOnly = true;
             this.txtMaSinhVien.Size = new System.Drawing.Size(204, 26);
-            this.txtMaSinhVien.TabIndex = 12;
+            this.txtMaSinhVien.TabIndex = 34;
             // 
             // lblMaSinhVien
             // 
             this.lblMaSinhVien.AutoSize = true;
             this.lblMaSinhVien.Font = new System.Drawing.Font("Times New Roman", 12.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblMaSinhVien.ForeColor = System.Drawing.Color.Blue;
-            this.lblMaSinhVien.Location = new System.Drawing.Point(26, 13);
+            this.lblMaSinhVien.Location = new System.Drawing.Point(26, 6);
             this.lblMaSinhVien.Name = "lblMaSinhVien";
             this.lblMaSinhVien.Size = new System.Drawing.Size(95, 19);
-            this.lblMaSinhVien.TabIndex = 11;
+            this.lblMaSinhVien.TabIndex = 33;
             this.lblMaSinhVien.Text = "Mã sinh viên";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 19F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(420, 405);
+            this.ClientSize = new System.Drawing.Size(421, 431);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.lstSinhVien);
             this.Controls.Add(this.btnXoa);
@@ -180,11 +176,10 @@ namespace BT01_SinhVien
             this.Controls.Add(this.txtMaSinhVien);
             this.Controls.Add(this.lblMaSinhVien);
             this.Font = new System.Drawing.Font("Times New Roman", 12.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Margin = new System.Windows.Forms.Padding(4);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Form1_FormClosed);
-            this.Load += new System.EventHandler(this.Form1_Load);
+            this.Text = "JsonFile";
             this.ResumeLayout(false);
             this.PerformLayout();
 
