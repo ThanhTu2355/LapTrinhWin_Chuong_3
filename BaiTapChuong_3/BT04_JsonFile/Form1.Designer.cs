@@ -64,6 +64,7 @@ namespace BT04_JsonFile
             this.lstSinhVien.Name = "lstSinhVien";
             this.lstSinhVien.Size = new System.Drawing.Size(421, 264);
             this.lstSinhVien.TabIndex = 42;
+            this.lstSinhVien.SelectedIndexChanged += new System.EventHandler(this.lstSinhVien_SelectedIndexChanged);
             // 
             // btnXoa
             // 
@@ -75,6 +76,7 @@ namespace BT04_JsonFile
             this.btnXoa.TabIndex = 41;
             this.btnXoa.Text = "Xoá";
             this.btnXoa.UseVisualStyleBackColor = true;
+            this.btnXoa.Click += new System.EventHandler(this.btnXoa_Click);
             // 
             // btnTiep
             // 
@@ -86,6 +88,7 @@ namespace BT04_JsonFile
             this.btnTiep.TabIndex = 40;
             this.btnTiep.Text = "Tiếp";
             this.btnTiep.UseVisualStyleBackColor = true;
+            this.btnTiep.Click += new System.EventHandler(this.btnTiep_Click);
             // 
             // btnLuu
             // 
@@ -97,6 +100,7 @@ namespace BT04_JsonFile
             this.btnLuu.TabIndex = 39;
             this.btnLuu.Text = "Lưu";
             this.btnLuu.UseVisualStyleBackColor = true;
+            this.btnLuu.Click += new System.EventHandler(this.btnLuu_Click);
             // 
             // txtHocBong
             // 
@@ -180,6 +184,8 @@ namespace BT04_JsonFile
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "JsonFile";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Form1_FormClosed);
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

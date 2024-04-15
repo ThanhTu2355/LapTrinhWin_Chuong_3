@@ -1,17 +1,1 @@
-﻿[
-  {
-    "MaSV": 1,
-    "HoTen": "Nguyễn Thanh Tú",
-    "HocBong": 10
-  },
-  {
-    "MaSV": 2,
-    "HoTen": "Trần Thanh Tuấn",
-    "HocBong": 20
-  },
-  {
-    "MaSV": 3,
-    "HoTen": "Lê Văn Thành Đạt",
-    "HocBong": 30
-  },
-]
+[{"MaSV":1,"HocBong":10,"HoTen":"Nguyễn Thanh Tú Tú"},{"MaSV":2,"HocBong":20,"HoTen":"Trần Thanh Tuấn"},{"MaSV":3,"HocBong":30,"HoTen":"Lê Văn Thành Đạt"}]

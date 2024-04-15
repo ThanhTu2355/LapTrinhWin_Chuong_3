@@ -124,6 +124,13 @@ namespace BT01_SinhVien
                 lstSinhVien.SelectedIndex = lstSinhVien.Items.IndexOf(sv);
                 txtMaSinhVien.ReadOnly = true;
             }    
+            else
+            {
+                SinhVien sv = TimSinhVien(int.Parse(txtMaSinhVien.Text));
+                sv.HoTen = txtHoTen.Text;
+                sv.HocBong = int.Parse(txtHocBong.Text.Replace(",", "").Replace("$", ""));
+                KhoiTaoListBox();
+            }    
         }
     }
 }

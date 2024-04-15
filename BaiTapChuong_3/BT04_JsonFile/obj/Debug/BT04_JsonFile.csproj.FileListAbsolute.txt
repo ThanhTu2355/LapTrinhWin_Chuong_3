@@ -1,0 +1,12 @@
+D:\DATA\Git Clone\GitClone\BaiTapChuong_3\BT04_JsonFile\bin\Debug\BT04_JsonFile.exe.config
+D:\DATA\Git Clone\GitClone\BaiTapChuong_3\BT04_JsonFile\bin\Debug\BT04_JsonFile.exe
+D:\DATA\Git Clone\GitClone\BaiTapChuong_3\BT04_JsonFile\bin\Debug\BT04_JsonFile.pdb
+D:\DATA\Git Clone\GitClone\BaiTapChuong_3\BT04_JsonFile\bin\Debug\Newtonsoft.Json.dll
+D:\DATA\Git Clone\GitClone\BaiTapChuong_3\BT04_JsonFile\obj\Debug\BT04_JsonFile.csproj.AssemblyReference.cache
+D:\DATA\Git Clone\GitClone\BaiTapChuong_3\BT04_JsonFile\obj\Debug\BT04_JsonFile.Form1.resources
+D:\DATA\Git Clone\GitClone\BaiTapChuong_3\BT04_JsonFile\obj\Debug\BT04_JsonFile.Properties.Resources.resources
+D:\DATA\Git Clone\GitClone\BaiTapChuong_3\BT04_JsonFile\obj\Debug\BT04_JsonFile.csproj.GenerateResource.cache
+D:\DATA\Git Clone\GitClone\BaiTapChuong_3\BT04_JsonFile\obj\Debug\BT04_JsonFile.csproj.CoreCompileInputs.cache
+D:\DATA\Git Clone\GitClone\BaiTapChuong_3\BT04_JsonFile\obj\Debug\BT04_JsonFile.csproj.CopyComplete
+D:\DATA\Git Clone\GitClone\BaiTapChuong_3\BT04_JsonFile\obj\Debug\BT04_JsonFile.exe
+D:\DATA\Git Clone\GitClone\BaiTapChuong_3\BT04_JsonFile\obj\Debug\BT04_JsonFile.pdb
